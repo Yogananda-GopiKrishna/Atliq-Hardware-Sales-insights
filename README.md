@@ -23,4 +23,21 @@ Sales database is downloaded from here.Imported and Loaded database using SQL.Fi
 4. Product Table
 5. Date Table
 
+# * Key Variables*
+**Markets Table - Zone**
 
+- Central -  Bhopal, Nagpur, Mumbai
+- North – Surat, Patna, Lucknow, - Kanpur, Delhi NCR, Ahmedabad
+- South –
+Bhubaneswar, Hyderabad, Kochi, Bengaluru, Chennai
+
+**Customers Table - Type of Customers**
+
+- Brick & motor :  refers to a business that has at least one physical location that customers can visit. 
+Ex : Croma, Vijay sales  …etc.
+- E-commerce : refers to the process of buying and selling goods and services over the internet.
+Ex : Amazon, Flipkart …etc.
+
+**Products Table - Type of Products**
+- Own Brand:  Products are Manufactured and Branded by Atliq hardware itself.
+- Distribution: These Products are manufactured by External (3rd party) sources and resold by Atliq hardware by its own brand.
