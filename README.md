@@ -16,10 +16,11 @@ Atliq Hardware market growing Dynamically. But the sales director observed overa
 
 # *Data source*
 Sales database is downloaded from here.Imported and Loaded database using SQL.Five tables are Exists in sales database.All These Tables loaded in PowerBI Using MySQL.
-1.Customer Table
-2.Market Table
-3.Sales Transactions Table
-4.Product Table
-5.Date Table
+
+1. Customer Table
+2. Market Table
+3. Sales Transactions Table
+4. Product Table
+5. Date Table
 
 
