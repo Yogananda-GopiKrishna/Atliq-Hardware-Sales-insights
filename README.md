@@ -1,13 +1,11 @@
 # Business-Insights-360
 A PowerBI dashboard build on Atliq Hardware which gives insights of Finance,sales, Marketing, Supply chain and Executive views.
 
-Interactive DashBoard : https://app.powerbi.com/view?r=eyJrIjoiY2Y1ZTUzYjAtMjA3OS00OGFkLWI2OTEtNzdkYjlmMjFlMzZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Interactive DashBoard : [click here](https://app.powerbi.com/view?r=eyJrIjoiY2Y1ZTUzYjAtMjA3OS00OGFkLWI2OTEtNzdkYjlmMjFlMzZmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-html link :[<iframe title="AtliQ_Sales_Insights_Final" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDI0MDc5NmQtMjE1My00YTJhLWJiZTktZDc0ZjI5NDA4ZGQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection881eccb1a8006aa48630" frameborder="0" allowFullScreen="true"></iframe>]
+LinkedIn Video Presentation : [click here](https://www.linkedin.com/posts/pampana-gopikrishna12_%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-%3F-%3F%3F%3F%3F-%3F-activity-7188809951077715968-agLT?utm_source=share&utm_medium=member_desktop)
 
-LinkedIn Video Presentation : [https://www.linkedin.com/posts/pampana-gopikrishna12_%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F-%3F-%3F%3F%3F%3F-%3F-activity-7188809951077715968-agLT?utm_source=share&utm_medium=member_desktop]
-
-Data Source Link : [https://lnkd.in/gRwFAKKW]
+Data Source Link : [click here](https://lnkd.in/gRwFAKKW)
 # **About Company**
 AtliQ Hardware Company which manufacturers Computer Hardware and Peripheral and supplies to many of their clients across india.It has head office in delhi and so many regional offices throughout India.
 
